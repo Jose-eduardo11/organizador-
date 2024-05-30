@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="xy">
+    <file>logout-icon-2048x2048-libuexip.png</file>
+    <file>system-solid-8-account.png</file>
+    <file>system-regular-42-search.png</file>
+    <file>system-regular-716-spinner-three-dots.gif</file>
+    <file>system-regular-63-settings-cog.png</file>
+    <file>system-regular-1-share.png</file>
+    <file>system-regular-44-folder.png</file>
+    <file>system-regular-41-home.png</file>
+    <file>image.png</file>
+    <file>6329.jpg</file>
+    <file>bell-icon-1715x2048-hael7mhz.png</file>
+  </qresource>
+</RCC>
